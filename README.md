@@ -43,21 +43,26 @@ Para la identificación de valores faltantes se utilizo en Excel la función de 
 Para el análisis exploratorio, en principio, se le dio formato de tabla al conjunto de datos en Excel, posteriormente, se elaboraron tablas dinamicas con las variables demográficas (género, edad y ocupación), duración de sueño, calidad de sueño, minutos de actividad fisica, nivel de estrés y categoría de IMC. Para la variable edad se calcularon estadísticas descriptivas, especificamente, la media y desviación estándar. Además de la media para la duración de sueño y calidad de sueño. 
 
 Ilustración 1 Análisis exploratorio en Excel – parte 1
+
  <img width="442" alt="image" src="https://github.com/user-attachments/assets/62707bbe-3da1-4255-aa10-f1dfc642f5f7">
 
 Ilustración 2 Análisis exploratorio en Excel – parte 2
+
  <img width="442" alt="image" src="https://github.com/user-attachments/assets/a6518dcb-263b-4515-a8f5-22b8fd23adbf">
 
 ## 4.	Visualización de Datos 
 Para la visualización interactiva de los datos se utilizó Tableu en el cual se generaron tres historias. La primera se titula “Caracterización de los individuos de estudio” con base a las variables género, edad y ocupación. La segunda se llama “Salud de sueño” en la cual se observa la cantidad de sueño por ocupación, así como la calidad de sueño por género. Y la tercera lleva por título “Tablas cruzadas del nivel de estrés” presentando el nivel de estrés por actividad física y nivel de estrés por la categoría de IMC. 
 
 Ilustración 3 Gráficos de la historia 1 en Tableu.
+
  <img width="426" alt="image" src="https://github.com/user-attachments/assets/7a25c5eb-a542-4665-a604-72560e1153bc">
 
 Ilustración 4 Gráficos de la historia 2 en Tableu.
+
  <img width="391" alt="image" src="https://github.com/user-attachments/assets/8f0e1c3f-0b3d-409d-9958-f438119a8188">
 
 Ilustración 5 Gráficos de la historia 3 en Tableu.
+
  <img width="393" alt="image" src="https://github.com/user-attachments/assets/f4d678ef-ee1e-4f8d-9cc6-07ec25a0f38f">
 
 Visualizar gráficos en el link: https://public.tableau.com/app/profile/cinthia.murillo/viz/ProyectoFinal_17301875265050/Historia?publish=yes
