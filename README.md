@@ -11,9 +11,13 @@ El motivo de selección de la base de datos fue la relevancia e impacto que tien
 
 ## Objetivos
 •	Caracterización demógrafica de los individuos con relación a género, edad y ocupación. 
+
 •	Comparativa de la cantidad de horas de sueño por género. 
+
 •	Comparativa de la calidad de sueño por genero. 
+
 •	Identificar si el nivel de estrés tiene asociación con los minutos de actividad fisica realizados al día. 
+
 •	Identificar si la categoría de IMC tiene asociacion con el nivel de estrés. 
 
 ## 2.	Preparación y Limpieza de los Datos 
